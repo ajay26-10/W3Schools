@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+}
+
+.navbar{
+    display: flex;
+    gap: 1.5%;
+    background-color: #292a34;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+    overflow: auto;
+    white-space: nowrap;
+    margin: 0px;
+    
+    
+}
+
+.sect1{
+    padding-top: 30px;
+    padding: 50px;
+    background-color: #292a34;
+    color: white;
+    height: 550px;
+    text-align: center;
+}
+
+.sect1 h1{
+    font-size: 70px;
+}
+.shtml{
+    height: 500px;
+    display: flex;
+    text-align: center;
+    
+}
+
+.s1{
+    align-content: center;
+    width: 50%;
+    height: 500px;
+}   
+
+button{
+    align-content: center;
+    border-radius: 15px;
+    font-size: 20px;
+    width: 300px;
+    color: black;
+}
+
+.s2html{
+    height: 350px;
+    display: flex;
+    text-align: center;
+    
+}
+
+.s2{
+    padding: 61px;
+    width: 50%;
+}
+
+.border2{
+    /* border-width: 2px;  */
+    border-style: solid;
+    border-radius: 8px;
+    height: 250px;
+}
+
+.s3html{
+    height: 250px;
+    display: flex;
+    text-align: center;
+    
+}
+
+.s3{
+    width: 50%;
+    
+}
+
+.s4html{
+    height: 150px;
+    display: flex;
+    text-align: center;
+    
+}
+
+.s4{
+    width: 25%;
+    height: 100px;
+}
+
+#but2{
+    width: 600px;
+    height: 150px;
+    font-size: 30px;
+}
+
+#but3{
+    width: 250px;
+    height: 100px;
+    font-size: 30px;
+}
+
+#but4{
+    background-color: black;
+    color: white;
+}
+
+.syn{
+    border-width: 1px; 
+    border-radius: 9px;
+    height: 400px;
+    margin: 100px;
+    background-color: #E7E9EB;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.dat{
+    background-color: white;
+    border: 3px solid;
+    border-right:0px;
+    border-top:0px;
+    border-bottom:0px;
+    height: 250px;
+    border-color: green;
+    width: 400px;
+    padding-left: 10px;
+    padding-top:3px ;
+}
+
+.navbar{
+    background-color: #292a34;
+    text-align: justify;
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;   
+}
+
+button:hover{
+    opacity: 0.9;
+}
